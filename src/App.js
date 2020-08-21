@@ -10,13 +10,25 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
+       <a
           className="App-link"
-          href="https://reactjs.org"
+          
+          href="http://www.deckarddtx.infinityfreeapp.com/2020/08/21/curriculo-vitae/"
+         
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         infinityfreeapp
+        </a>
+        <a
+          className="App-link"
+          
+          
+          href="https://deckarddtx.milaulas.com/course/view.php?id=3"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          MOODLE
         </a>
       </header>
     </div>
